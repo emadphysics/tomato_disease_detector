@@ -1,1 +1,1 @@
-# tomato_disease_detector
+# tomato_disease_detector_by_CNN
