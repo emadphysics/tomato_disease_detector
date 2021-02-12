@@ -1,1 +1,1 @@
-# tomato_disease_detector_by_CNN
+# Tomato disease detector by training a convolutional neural network
